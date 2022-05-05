@@ -1,0 +1,1 @@
+assert_equals 'xyz', value.downcase
